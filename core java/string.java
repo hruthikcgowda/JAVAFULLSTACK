@@ -13,7 +13,9 @@ public class string{
             System.out.println("Value are equal");
         }else{
             System.out.println("Values are not equal");
-
+        }
+    }
+}
 
 
 
